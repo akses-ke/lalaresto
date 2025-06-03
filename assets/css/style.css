@@ -5158,9 +5158,9 @@ h6, .h6, .offer-card-item .available-item, .about-image-part .food-review .text,
   right: 0;
   bottom: 0;
   color: white;
-  padding: 45px;
+  padding: 10px;
   font-size: 20px;
-  max-width: 300px;
+  max-width: 400px;
   background: var(--primary-color); }
   @media only screen and (max-width: 575px) {
     .experience-year {
