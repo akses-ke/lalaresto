@@ -8439,3 +8439,15 @@ blockquote {
   top: -65px;
   color: var(--heading-color);
   background-image: url(../images/shapes/scroll-top-yellow-bg.png); }
+
+
+@media (max-width: 400px) {
+   .food-menu-item.style-two .content h5 .price {
+    margin-left: 0px;
+   }
+
+   .food-menu-item.style-two .content h5 {
+    font-size: 21px !important;
+   }
+} 
+  
